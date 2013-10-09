@@ -1,4 +1,4 @@
-Materials for PySAL Workshop
+# Spatial Data Analysis with PySAL and GeoDaSpace
 
 ## Perquisites
 
