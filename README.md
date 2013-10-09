@@ -1,6 +1,10 @@
 # Spatial Data Analysis with PySAL and GeoDaSpace
 
-## Perquisites
+## Workshop Description
+
+A unique feature of this tutorial is the use of Python based software tools for spatial data analysis. Python is an object oriented scripting language that is gaining rapid adoption in the computational sciences. To facilitate this adoption within the GIScience community, Rey and Anselin have collaborated on the creation of PySAL: Python Library for Spatial Analysis. Since its initial release in July 2010, PySAL has been downloaded over 25,000 times. This two-part tutorial will introduce participants to version 1.6 of PySAL as well as to GeoDaSpace, a GUI application based on PySAL designed for spatial econometric analysis. The first component provides hands-on experience in the use of PySAL for exploratory spatial data analysis. In the second part of the tutorial the focus moves to practical spatial regression analysis using GeoDaSpace.
+
+## Prerequisites
 
 - Previous experience with Python programming is recommended
 - Participants should bring their own laptops to the workshop
@@ -8,7 +12,6 @@
 - GeoDaSpace
 
 Example data sets will be made available
-
 
 ## Outline
 
