@@ -20,8 +20,6 @@ Example data sets will be made available
 
 ## Outline
 
-The half-day (3-hour) workshop will be organized into two components separated by a single break
-
 - Part  1: Introduction and Setup (30 minutes)
 	- PySAL Overview
 	- Software Configuration
