@@ -2,7 +2,7 @@
 
 **Sergio Rey**
 
-**November 12, 2013**
+**November 13, 2013**
 
 **NARSC 2013, Atlanta, Ga**
 
