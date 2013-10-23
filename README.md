@@ -1,4 +1,4 @@
-# Spatial Data Analysis with PySAL and GeoDaSpace
+# Spatial Data Analysis with PySAL
 
 **Sergio Rey**
 
@@ -14,7 +14,7 @@ A unique feature of this tutorial is the use of Python based software tools for 
 
 - Previous experience with Python programming is recommended
 - Participants should bring their own laptops to the workshop
-- [Anaconda Python Distribution][Anaconda]
+- [Anaconda Python Distribution Version 1.7.0][Anaconda]
 
 Example data sets will be made available
 
